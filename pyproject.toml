@@ -1,0 +1,11 @@
+[project]
+name = "skin-tone-analysis"
+version = "0.1.0"
+description = "AI-powered skin tone analyzer using computer vision"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "gradio>=6.5.1",
+    "numpy>=2.4.2",
+    "opencv-python>=4.13.0.92",
+]
